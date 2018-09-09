@@ -1,0 +1,41 @@
+* {
+    text-align: center;
+}
+
+.btn {
+    margin: 5px;
+}
+
+#potterGifs {
+    margin-top: 50px;
+}
+
+h1 {
+    font-family: 'Roboto Condensed', sans-serif;
+    font-size: 75px;
+}
+
+h6 {
+    font-style: italic;
+    font-family: 'Dosis', sans-serif;
+}
+
+body {
+    background-image: url(../images/3bb441aca02a8215d3471b1c3a7af8de.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+.jumbotron {
+    background-color: #f1f1f1;
+    padding: 30px;
+}
+
+.list-group-item {
+    background-color: #f1f1f1;
+    font-family: 'Dosis', sans-serif;
+}
+
+a {
+    color: black;
+}
